@@ -1,4 +1,5 @@
 bqplot
 ipywidgets
+widgetsnbextension
 numpy
 voila
